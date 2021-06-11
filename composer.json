@@ -1,0 +1,11 @@
+{
+    "name": "tossaporn/TuiHello",
+    "description": "A First Tui Package on composer package.",
+    "autoload": {
+        "psr-4": {
+            "tossaporn\\TuiHelloPackage\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
